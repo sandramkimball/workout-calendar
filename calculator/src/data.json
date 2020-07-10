@@ -1,0 +1,115 @@
+{
+    "weekdays" : ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "routines": [
+        {
+            "date": "07-08-2020",
+            "title": "Lats and Abs",
+            "warmup": {
+                "sets":"2-3",
+                "subtitle":"",
+                "routine": [
+                    {   
+                        "reps": "300m",
+                        "exercise": "Jog"
+                    },
+                    {   
+                        "reps": "12x",
+                        "exercise": "Jumping Jacks"
+                    },
+                    {
+                        "reps": "12x",
+                        "exercise": "Back Rows"
+                    }                
+                ]
+            },
+            "workout": {
+                    "sets": "18min",
+                    "subtitle":"",
+                    "routine":[
+                        {
+                            "reps": "12x",
+                            "exercise": "Deadlifts"
+                        },
+                        {
+                            "reps": "12x",
+                            "exercise": "Burpees"
+                        },
+                        {
+                            "reps": "35x",
+                            "exercise": "Situps"
+                        }
+                    ]
+                },
+            "cooldown": {
+                "subtitle":"",
+                "routine": [
+                    {
+                        "reps": "1:30min",
+                        "exercise": "Tuck Holds"
+                    }, 
+                    {
+                        "reps": "1:30min",
+                        "exercise": "Plank"
+                    }
+                ]
+            }
+        }, 
+        {
+            "date": "07-09-2020",
+            "title": "Rest Day"
+        },
+        {
+            "date": "07-10-2020",
+            "title": "Legs",
+            "warmup": {
+                "sets":"2",
+                "subtitle":"",
+                "routine": [
+                    {   
+                        "reps": "15x",
+                        "exercise": "Box Jumps"
+                    },
+                    {
+                        "reps": "4x",
+                        "exercise": "Sprints"
+                    }                
+                ]
+            },
+            "workout": {
+                    "sets": "18min",
+                    "subtitle":"As Many Sets as Possible",
+                    "routine":[
+                        {
+                            "reps": "10x",
+                            "exercise": "Weighted Squats"
+                        },
+                        {
+                            "reps": "10x",
+                            "exercise": "Jumping Lunges"
+                        }
+                    ]
+                },
+            "cooldown": {
+                "subtitle":"",
+                "routine": [
+                    {
+                        "reps": "1:30min",
+                        "exercise": "Wall Sit"
+                    }, 
+                    {
+                        "reps": "1:30min",
+                        "exercise": "Burpees"
+                    },
+                    {
+                        "reps": "1:30min",
+                        "exercise": "Wall Sit"
+                    }
+                ]
+            }
+        }, 
+        {
+            "date": "07-11-2020",
+            "title": "Rest Day"
+        }
+    ]
+}

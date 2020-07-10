@@ -1,0 +1,55 @@
+$drk-blue: #1a2649;
+$gray: #a1a1a1;
+
+.weekly-chart{
+    .weekday{
+        border: 1px solid $drk-blue;
+        position: relative;
+    }
+    h2{
+        font-size: 16px;
+        color: $gray;
+        position: absolute;
+        top: 10px;
+    }
+    table{
+        position: absolute;
+        top: 20px;
+    }
+    th{ 
+        font-size: 12px;
+    }
+    th:nth-child(2){
+        font-weight: 650;;
+    }
+}
+
+button{
+    height: 30px;
+    width: 200px;
+    color: #fff;
+    background-color: #ad0c0c;
+    cursor: pointer;
+    :hover{
+        box-shadow: 0px 2px 4px gray;
+    }
+}
+
+// .daily-agenda{
+//     h2{
+//         font-size: 16px;
+//         color: $gray;
+//         position: absolute;
+//         top: 10px;
+//     }
+//     table{
+//         position: absolute;
+//         top: 20px;
+//     }
+//     th{ 
+//         font-size: 12px;
+//     }
+//     th:nth-child(2){
+//         font-weight: 650;;
+//     }
+// }
